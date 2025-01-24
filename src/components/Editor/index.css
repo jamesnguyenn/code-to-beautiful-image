@@ -1,0 +1,7 @@
+@import 'codemirror/lib/codemirror.css';
+@import 'codemirror/theme/material.css';
+
+.editor-wrapper .editor {
+    min-width: 480px;
+    max-width: 480px;
+}
