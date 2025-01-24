@@ -107,6 +107,11 @@ a.secondary {
 .footer img {
   flex-shrink: 0;
 }
+.rowCenter {
+  display: flex;
+  align-items: center;
+  gap:6px
+}
 
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
