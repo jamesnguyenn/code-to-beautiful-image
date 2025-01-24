@@ -48,7 +48,7 @@ export default function Footer({ }: Props) {
                         href="https://www.linkedin.com/in/nq-thien/"
                         target="_blank"
                         rel="noopener noreferrer"
-                        style={{ color: "#008000" }}
+                        style={{ color: "#238636" }}
                     >@thiennguyen</a>
                 </div>
             </footer>
