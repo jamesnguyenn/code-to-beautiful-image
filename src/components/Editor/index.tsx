@@ -17,7 +17,6 @@ const Editor = () => {
                     theme: 'material',
                     lineNumbers: false,
                     readOnly: false,
-
                 }}
                 onBeforeChange={(editor, data, value) => {
                     setCode(value);
